@@ -1,0 +1,5 @@
+name: NewsBooks
+version: '${version}'
+main: me.glaremasters.newsbooks.Newsbooks
+api-version: 1.19
+description: Obtain breaking news directly from a book!

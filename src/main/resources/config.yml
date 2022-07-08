@@ -1,0 +1,4 @@
+sources:
+  cnn: "http://rss.cnn.com/rss/cnn_topstories.rss"
+  newyorktimes: "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
+  washingtonpost: "https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_41"
